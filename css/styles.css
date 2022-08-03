@@ -10,4 +10,6 @@ img {
     border-style: dashed;
 } 
 
- 
+ div {
+    font-family: 'Courier New', Courier, monospace;
+ }
